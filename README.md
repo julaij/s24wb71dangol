@@ -2,3 +2,6 @@
 Node Express Pug Project
 
 [Render Server Link](https://s24wb71dangol.onrender.com/)
+
+Class : Artist
+Attributes : artist_name, artist_age, artist_masterpiece
